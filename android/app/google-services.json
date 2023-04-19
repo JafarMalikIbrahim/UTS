@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "238219247834",
+    "project_id": "skripsi-c0717",
+    "storage_bucket": "skripsi-c0717.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:238219247834:android:9718906d2ffc284a1365e3",
+        "android_client_info": {
+          "package_name": "com.ebt.manajemen_aset"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "238219247834-g9a9okv2fbptemivhv3g6nnm5lhqvqid.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ebt.manajemen_aset",
+            "certificate_hash": "75b6a0a92317b99188e8419e990ca306240c6136"
+          }
+        },
+        {
+          "client_id": "238219247834-v8igrmhealikla1jeh67sa8u3gs27m7a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdbRAZL71yOKef15hxk6JQ7QgQ8PHqVBo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "238219247834-v8igrmhealikla1jeh67sa8u3gs27m7a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
