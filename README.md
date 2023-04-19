@@ -1,4 +1,10 @@
-# manajemen_aset
+# UTS MANAJEMEN ASET FLUTTER
+
+SCREENSHOT
+![Screenshot 2023-04-19 195809](https://user-images.githubusercontent.com/92065895/233082734-5bf57ae4-4fca-4124-9206-a44150a218c6.png)
+
+![image](https://user-images.githubusercontent.com/92065895/233082654-666a0c1a-b41f-4c6c-b862-78966725af33.png)
+
 
 A new Flutter project.
 
